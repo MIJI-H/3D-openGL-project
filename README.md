@@ -59,6 +59,7 @@ Translate was given to trees and building street trees to give the effect of the
 By setting the sky-blue dark, it indicates that it is night.<br/>
 
 ![image](https://github.com/MIJI-H/3D-openGL-project/assets/71619429/f7a1fbf3-74a0-43c2-a76c-ff1e49d1d1d3)
+<br/>
 [↑ Screenshots of project when write moon code]
 
 I wrote a code to use lighting and to draw the moon in the evening, but the entire window was printed dark because of the shadow part. To solve this part, I googled and tried several times, but failed, posted a screenshot and commented out the code for that part.
