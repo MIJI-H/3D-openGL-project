@@ -1,4 +1,4 @@
-# 3D-openGL-project
+# 3D-openGL-project <br/>
 
 Title: Making view in the moving car on visual studio <br/>
 
@@ -47,13 +47,13 @@ Translate was given to trees and building street trees to give the effect of the
 
 (Keyboard interaction) <br/>
 
-- U and u make camera up<br/>
+ U and u make camera up<br/>
 
-- D and d make camera down <br/>
+ D and d make camera down <br/>
 
-- _ and - make decrease the speed of car movement.<br/>
+ _ and - make decrease the speed of car movement.<br/>
 
-- + and = make increase the speed of car movement.<br/>
+ + and = make increase the speed of car movement.<br/>
 
 
 By setting the sky-blue dark, it indicates that it is night.<br/>
